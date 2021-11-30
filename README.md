@@ -8,6 +8,7 @@ The Marathi Wikipedia (Marathi: मराठी विकिपीडिया) 
 <ol>
 <li>Ankit Gaikwad</li> </br>
 <li>Gaurav Gaikwad</li></br>
+<li>Abhishek Ikhar</li></br>
 </ol>
 
 <H2>Targets</H2>
